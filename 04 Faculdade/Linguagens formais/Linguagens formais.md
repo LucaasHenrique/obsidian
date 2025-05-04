@@ -1,0 +1,13 @@
+
+- Básico
+	- [[Sintaxe]]
+	- [[Semântica]]
+	- Alfabeto ➡ conjunto finito de símbolos
+	- Palavra -> sequência finita de símbolos (do alfabeto) justapostos
+	- Comprimento de uma palavra -> | w |
+	- Linguagem formal -> subconjunto de todas as palavras possíveis dentro de um alfabeto
+	- Gramática 
+		- conjunto finito de regras
+		- todas as palavras geradas por uma gramática
+		- define a linguagem	
+- [[Linguagens regulares]]

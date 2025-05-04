@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d05447d5259f2495","x":-160,"y":-300,"width":250,"height":60,"type":"text","text":"Rota"},
+		{"id":"bf4c5ec83d4c3eaa","x":-160,"y":-140,"width":250,"height":60,"type":"text","text":"Controller"},
+		{"id":"02943e5dae27c2fa","x":-380,"y":15,"width":250,"height":60,"type":"text","text":"Model"},
+		{"id":"014beedb466ade3f","x":90,"y":15,"width":250,"height":60,"type":"text","text":"View"}
+	],
+	"edges":[
+		{"id":"b79f3f099c80a733","fromNode":"bf4c5ec83d4c3eaa","fromSide":"right","toNode":"014beedb466ade3f","toSide":"top"},
+		{"id":"6470c5f48359bf8a","fromNode":"014beedb466ade3f","fromSide":"left","toNode":"bf4c5ec83d4c3eaa","toSide":"bottom"},
+		{"id":"bbbb30351602b660","fromNode":"bf4c5ec83d4c3eaa","fromSide":"left","toNode":"02943e5dae27c2fa","toSide":"top"},
+		{"id":"4b1da83cb28982bb","fromNode":"02943e5dae27c2fa","fromSide":"right","toNode":"bf4c5ec83d4c3eaa","toSide":"bottom"},
+		{"id":"b86ec9afff728981","fromNode":"d05447d5259f2495","fromSide":"bottom","toNode":"bf4c5ec83d4c3eaa","toSide":"top"}
+	]
+}

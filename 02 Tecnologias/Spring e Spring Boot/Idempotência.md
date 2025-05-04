@@ -1,0 +1,2 @@
+
+Uma operação **idempotente** é definida como uma que, se realizada mais de uma vez, resulta no mesmo resultado. Em uma API REST, uma operação idempotente é aquela que, mesmo que fosse realizada várias vezes, os dados resultantes no servidor seriam os mesmos que se tivessem sido realizados apenas uma vez.

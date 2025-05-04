@@ -1,0 +1,3 @@
+- Um **sistema de estados finitos** é um modelo matemático usado para descrever sistemas com entradas e saídas discretas, que podem estar em um número limitado de estados. Cada estado representa apenas as informações essenciais do passado necessárias para determinar as ações com base na próxima entrada. Esse tipo de sistema permite prever o comportamento do sistema ao longo do tempo com base em suas transições de estado e entradas recebidas
+- Exemplo: 
+	- Elevador: O sistema de um elevador é baseado em um modelo que não armazena solicitações anteriores. Em cada momento, seu estado é definido pelo "andar corrente" e pela "direção de movimento". As entradas para o sistema são apenas as solicitações pendentes, que ele processa sem histórico de chamadas anteriores.

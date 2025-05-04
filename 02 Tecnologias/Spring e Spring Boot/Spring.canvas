@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f3f51479c49d5d8a","x":-200,"y":-20,"width":250,"height":60,"type":"text","text":"Spring Framework"},
+		{"id":"dc16248576ec38fe","x":79,"y":-165,"width":250,"height":60,"type":"text","text":"Spring Boot"}
+	],
+	"edges":[
+		{"id":"d05a002b5eb0a1b6","fromNode":"f3f51479c49d5d8a","fromSide":"right","toNode":"dc16248576ec38fe","toSide":"left"}
+	]
+}

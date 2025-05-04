@@ -1,0 +1,1 @@
+Cada elemento armazena um ou vários tipos de dados e possui  dois ponteiros; o primeiro para o próximo elemento, e o segundo para o elemento anterior. Tem-se também um campo chamado de chave, no qual permite que uma determinada ordenação seja mantida.

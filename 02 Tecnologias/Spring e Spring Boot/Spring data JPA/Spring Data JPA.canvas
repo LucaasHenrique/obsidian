@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"18bb9886fdd24fab","type":"text","text":"Spring Data JPA","x":-320,"y":-180,"width":250,"height":60},
+		{"id":"5bc6b606ee296c92","type":"text","text":"JPA","x":-320,"y":-60,"width":250,"height":60},
+		{"id":"f185f969c4386caa","type":"text","text":"Hibernate","x":-320,"y":60,"width":250,"height":60},
+		{"id":"93571990cdd69407","type":"text","text":"JDBC","x":-320,"y":180,"width":250,"height":60},
+		{"id":"dedc6b10e4e92504","type":"text","text":"DB","x":-320,"y":300,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0c43a488c5ab288e","fromNode":"18bb9886fdd24fab","fromSide":"bottom","toNode":"5bc6b606ee296c92","toSide":"top","color":"2"},
+		{"id":"de84fa7c5ed2fd21","fromNode":"5bc6b606ee296c92","fromSide":"bottom","toNode":"f185f969c4386caa","toSide":"top","color":"2"},
+		{"id":"af77c611278727a6","fromNode":"f185f969c4386caa","fromSide":"bottom","toNode":"93571990cdd69407","toSide":"top","color":"2"},
+		{"id":"d56f193ee047bf29","fromNode":"93571990cdd69407","fromSide":"bottom","toNode":"dedc6b10e4e92504","toSide":"top","color":"2"},
+		{"id":"f4a3d97148c0a2fa","fromNode":"dedc6b10e4e92504","fromSide":"right","toNode":"93571990cdd69407","toSide":"right"}
+	]
+}
