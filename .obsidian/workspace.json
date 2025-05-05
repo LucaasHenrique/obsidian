@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Tecnologias/SQL & MySQL/RELACIONAMENTOS.md",
+                "file": "04 Faculdade/Analise orientada a objetos/resumo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RELACIONAMENTOS"
+              "title": "resumo"
             }
           }
         ]
@@ -176,6 +176,12 @@
   },
   "active": "c295c5bb8724e70a",
   "lastOpenFiles": [
+    "04 Faculdade/Analise orientada a objetos/Modelo de processo.md",
+    "04 Faculdade/Analise orientada a objetos/resumo.md",
+    "04 Faculdade/Analise orientada a objetos/Engenharia de Software.md",
+    "02 Tecnologias/vim & neovim/Atalhos Movimentação.md",
+    "02 Tecnologias/vim & neovim/vim.md",
+    "02 Tecnologias/SQL & MySQL/RELACIONAMENTOS.md",
     "05 Projetos/Gerenciador de Tarefas/Entidades.md",
     "00 Cursos/Java Cloud Native - DIO/Git/Git.md",
     "05 Projetos/Gerenciador de Tarefas",
@@ -191,21 +197,15 @@
     "02 Tecnologias/MVC.canvas",
     "02 Tecnologias/Arquitetura MVC.md",
     "04 Faculdade/Analise orientada a objetos/Projeto/Projeto analise.md",
-    "02 Tecnologias/vim & neovim/Atalhos Movimentação.md",
     "02 Tecnologias/vim & neovim",
     "02 Tecnologias/Spring e Spring Boot/Spring Roadmap.md",
     "04 Faculdade/Analise orientada a objetos/SCRUM.md",
     "04 Faculdade/Analise orientada a objetos/Modelo Cascata.md",
-    "04 Faculdade/Analise orientada a objetos/Engenharia de Software.md",
     "04 Faculdade/Modelagem de Dados/Banco de dados em rede.md",
     "04 Faculdade/Analise orientada a objetos/Projeto",
-    "02 Tecnologias/SQL & MySQL/RELACIONAMENTOS.md",
     "04 Faculdade/Modelagem de Dados/normalização/2º Forma Normal.md",
     "04 Faculdade/Modelagem de Dados/normalização/1º Forma Normal.md",
     "04 Faculdade/Modelagem de Dados/normalização/4º Forma Normal.md",
-    "04 Faculdade/Modelagem de Dados/normalização/5º Forma Normal.md",
-    "04 Faculdade/Modelagem de Dados/normalização/3º Forma Normal.md",
-    "04 Faculdade/Modelagem de Dados/normalização/Forma normal de Boyce-Codd.md",
     "04 Faculdade/Modelagem de Dados/normalização",
     "01 Livros/Desconstruindo a web",
     "01 Livros/Estrutura de dados/Estrutura de Dados.canvas",
