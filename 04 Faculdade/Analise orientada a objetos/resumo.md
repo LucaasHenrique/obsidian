@@ -61,12 +61,28 @@
 ---
 
 ## 5. Etapas da Engenharia de Requisitos
+1. Estudo de viabilidade
 
-1. **Análise e Negociação:** entender as necessidades e resolver conflitos.
-2. **Especificação:** documentar requisitos de forma clara e objetiva.
-3. **Validação:** garantir que os requisitos estão corretos e completos.
-4. **Gerenciamento de Requisitos:** lidar com mudanças e controle de versões.
+2. Elicitação (ou análise) de requisitos
 
+3. Especificação de requisitos
+
+4. Validação dos requisitos
+
+### Estudo de Viabilidade
+- É feita uma estimativa da viabilidade
+- Considera-se restrições como, tecnologia atual, cronograma, orçamento, etc.
+### Análise de Requisitos
+- É derivado os requisitos do sistema.
+- Usa-se várias técnicas baseadas em
+  observação e entrevistas.
+
+### Especificação de requisitos
+- Traduz os requisitos obtidos em um documento.
+- Os requisitos são catalogados e classificados.
+
+### Validação de Requisitos
+- Avalia o documento de requisitos quanto ao realismo, consistência e completude.
 ---
 
 ## 6. Requisitos Funcionais vs. Não Funcionais
