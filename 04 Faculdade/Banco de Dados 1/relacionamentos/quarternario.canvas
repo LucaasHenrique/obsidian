@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ce63c063d1fc473b","type":"text","text":"PRODUZ","x":-110,"y":-37,"width":250,"height":60},
+		{"id":"2fe6134a4eff5690","type":"text","text":"PRODUTO","x":175,"y":-210,"width":250,"height":60},
+		{"id":"458fff01df23fd0f","type":"text","text":"FERRAMENTA","x":140,"y":150,"width":250,"height":60},
+		{"id":"8e301de17a7c449e","type":"text","text":"FUNCIONARIO ","x":-425,"y":-150,"width":250,"height":60},
+		{"id":"9899cb27a1137688","x":-425,"y":150,"width":250,"height":60,"type":"text","text":"MAQUINA"}
+	],
+	"edges":[
+		{"id":"813bf178359a93a5","fromNode":"ce63c063d1fc473b","fromSide":"bottom","toNode":"458fff01df23fd0f","toSide":"left"},
+		{"id":"fc06300f5e535ce7","fromNode":"ce63c063d1fc473b","fromSide":"right","toNode":"2fe6134a4eff5690","toSide":"bottom"},
+		{"id":"6d6e691370b9563c","fromNode":"ce63c063d1fc473b","fromSide":"left","toNode":"8e301de17a7c449e","toSide":"bottom"},
+		{"id":"49aeef6b9011b643","fromNode":"9899cb27a1137688","fromSide":"top","toNode":"ce63c063d1fc473b","toSide":"bottom"}
+	]
+}

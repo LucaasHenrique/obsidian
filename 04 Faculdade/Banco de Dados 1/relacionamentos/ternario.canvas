@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5f8f21a9a69a4305","x":-65,"y":-107,"width":250,"height":60,"type":"text","text":"PRODUZ"},
+		{"id":"25d6c62cbebc9e42","x":220,"y":-280,"width":250,"height":60,"type":"text","text":"PRODUTO"},
+		{"id":"e6440a2bd18f2802","x":185,"y":80,"width":250,"height":60,"type":"text","text":"FERRAMENTA"},
+		{"id":"df8a15a986d5a6d7","x":-380,"y":-220,"width":250,"height":60,"type":"text","text":"FUNCIONARIO "}
+	],
+	"edges":[
+		{"id":"a718e3fb96edb95a","fromNode":"5f8f21a9a69a4305","fromSide":"bottom","toNode":"e6440a2bd18f2802","toSide":"left"},
+		{"id":"7170ad8845a618c3","fromNode":"5f8f21a9a69a4305","fromSide":"right","toNode":"25d6c62cbebc9e42","toSide":"bottom"},
+		{"id":"77db6d77a5453a6b","fromNode":"5f8f21a9a69a4305","fromSide":"left","toNode":"df8a15a986d5a6d7","toSide":"bottom"}
+	]
+}
