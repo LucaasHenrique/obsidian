@@ -21,5 +21,17 @@ Sistema de Gerenciamento de Bancos de Dados (SGBD) -> coleção de programas que
 ![[Pasted image 20260212064642.png]]
 read about [[04 Faculdade/Banco de Dados 1/SGBD|SGBD]]
 ***
+**Nove fases no desenvolvimento de um banco de dados** ->
+
+1. Contextualização;
+2. Objetivação;
+3. Intitulação;
+4. Especificação de Requisitos;
+5. Normalização;
+6. Modelagem;
+7. Trigramação;
+8. Dicionarização;
+9. Auditoria das fases de Análise e de Projeto Lógico do Sistema de Banco de Dados.
+***
 [[04 Faculdade/Banco de Dados 1/Modelos de Banco de Dados|Modelos de Banco de Dados]]
 [[Niveis de abstração]]
